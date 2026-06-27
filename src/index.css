@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Manrope:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@import "@fontsource-variable/inter";
+
+@theme {
+  --font-serif: "Fraunces", serif;
+  --font-sans: "Manrope", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --color-ink-50: #F6F4F1;
+  --color-ink-100: #E9E6E0;
+  --color-ink-200: #D8D4CC;
+  --color-ink-400: #9C968C;
+  --color-ink-500: #716C63;
+  --color-ink-600: #54504A;
+  --color-ink-700: #3F3C37;
+  --color-ink-800: #262420;
+  --color-ink-900: #14171F;
+
+  --color-paper-50: #FAF8F4;
+  --color-paper-100: #F2EFE8;
+  --color-paper-200: #E8E4DA;
+  --color-paper-400: #C9C2B4;
+
+  --color-teal-50: #EAF3F2;
+  --color-teal-100: #D2E6E4;
+  --color-teal-700: #16505A;
+
+  --color-sunset-300: #FFB23E;
+  --color-sunset-500: #FF6B4A;
+}
