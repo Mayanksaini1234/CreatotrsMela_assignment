@@ -2,7 +2,7 @@ import { memo } from "react";
 import { motion } from "framer-motion";
 import { FaInstagram, FaYoutube, FaTiktok } from "react-icons/fa";
 import { Card } from "@/components/ui/card";
-import SectionEyebrow from "./SectionEyebrow";
+import SectionEyebrow from "./Sectioneyebrow";
 import { formatCompactNumber, formatSigned } from "@/lib/format";
 
 const PLATFORM_ICON = {

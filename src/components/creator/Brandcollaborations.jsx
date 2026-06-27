@@ -1,7 +1,7 @@
 import { memo } from "react";
 import { motion } from "framer-motion";
 import { Card } from "@/components/ui/card";
-import SectionEyebrow from "./SectionEyebrow";
+import SectionEyebrow from "./Sectioneyebrow";
 
 const cardVariants = {
   hidden: { opacity: 0, y: 14 },

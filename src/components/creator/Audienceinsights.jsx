@@ -2,7 +2,7 @@ import { memo, useCallback, useState } from "react";
 import { motion } from "framer-motion";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import SectionEyebrow from "./SectionEyebrow";
+import SectionEyebrow from "./Sectioneyebrow";
 
 const GENDER_COLORS = ["#FF6B4A", "#16505A", "#C9C2B4"];
 
