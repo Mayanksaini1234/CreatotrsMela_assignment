@@ -4,7 +4,7 @@ import { FiMapPin } from "react-icons/fi";
 import { FaPlane, FaCheckCircle } from "react-icons/fa";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import { Badge } from "@/components/ui/badge";
-import FitScoreRing from "./FitScoreRing";
+import FitScoreRing from "./FitScoreRing.jsx";
 import { formatCompactNumber } from "@/lib/format";
 
 const fadeUp = {

@@ -1,11 +1,11 @@
 import { useCallback, useMemo } from "react";
-import CreatorHero from "@/components/creator/CreatorHero";
-import SocialOverview from "@/components/creator/SocialOverview";
-import AudienceInsights from "@/components/creator/AudienceInsights";
-import PerformanceMetrics from "@/components/creator/PerformanceMetrics";
-import BrandCollaborations from "@/components/creator/BrandCollaborations";
-import CollaborationCTA from "@/components/creator/CollaborationCTA";
-import StickyQuickBar from "@/components/creator/StickyQuickBar";
+import CreatorHero from "@/components/creator/CreatorHero.jsx";
+import SocialOverview from "@/components/creator/SocialOverview.jsx";
+import AudienceInsights from "@/components/creator/AudienceInsights.jsx";
+import PerformanceMetrics from "@/components/creator/PerformanceMetrics.jsx";
+import BrandCollaborations from "@/components/creator/BrandCollaborations.jsx";
+import CollaborationCTA from "@/components/creator/CollaborationCTA.jsx";
+import StickyQuickBar from "@/components/creator/StickyQuickBar.jsx";
 import {
     creator,
     socialPlatforms,
