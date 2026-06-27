@@ -4,7 +4,7 @@ import { FiMail, FiClock } from "react-icons/fi";
 import { FaShieldAlt } from "react-icons/fa";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import SectionEyebrow from "./SectionEyebrow";
+import SectionEyebrow from "./Sectioneyebrow";
 
 function CollaborationCTA({ availability, contactEmail = "hello@riyawanders.com" }) {
   // Stable reference — passed to a <Button>, so memoizing avoids recreating
